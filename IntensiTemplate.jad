@@ -1,0 +1,7 @@
+MIDlet-Vendor: ${vendor.name}
+MIDlet-Jar-URL: ${project.name}.jar
+MIDlet-Version: ${version}
+MIDlet-Name: ${project.name}
+MIDlet-Icon: /icon.png
+MIDlet-1: IntensiTemplate, /icon.png, net.intensicode.IntensiTemplate
+MIDlet-2: IntensiTemplateSandbox, /icon.png, net.intensicode.IntensiTemplateSandbox

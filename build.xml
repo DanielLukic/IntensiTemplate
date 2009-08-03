@@ -1,0 +1,9 @@
+<project name="IntensiTemplate" default="build">
+
+    <!-- Import the build system. -->
+    <import file="modules/IntensiBuild/build.xml"/>
+
+    <!-- Set fallback defaults to make IntelliJ happy. -->
+    <property name="output.name" value="${ant.project.name}"/>
+
+</project>
