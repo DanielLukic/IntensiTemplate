@@ -1,4 +1,4 @@
-remote_override: ssh://git@github.com/DanielLukic/{{module}}.git
+remote_override: git://github.com/DanielLukic/{{module}}.git
 add_module: IntensiBuild modules/IntensiBuild
 add_module: IntensiTools modules/IntensiTools
 add_module: IntensiGame modules/IntensiGame
